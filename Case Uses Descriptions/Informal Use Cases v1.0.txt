@@ -1,0 +1,7 @@
+Create Bill Category: Hability to create a new Bill Category to insert new items for charge.
+Create Fund Category: Hability to create a new Fund Category to insert new items for funds.
+Insert New Item: Insert a new item into a choosen category, it could be a Bill or Fund Category.
+Edit Item: Edit itens information, also allows the Change Item Months and Change Item Category Use Case.
+Change Item Months: An item can be replicated for more than one month, then the user is allowed to change its charging months.
+Change Item Category: Change an item category among those same meaningful ( Bill or Fund).
+Consult Month Status: Consult an Month Status, by Status its mean how much has been spended, with what its been spended, how much has been received by funds and that month balance.
