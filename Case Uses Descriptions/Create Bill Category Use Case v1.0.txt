@@ -7,7 +7,7 @@ Posconditions: A new category has been introduced to the system.
 Basic Flux:
 	- 1. At the main panel, the user select an option to insert a new bills category.
 	- 2. The user fills the category name and, optionally, the category description.
-	- 3. The user finishs the current operation saving all filled data.
+	- 3. The user finishes the current operation saving all filled data.
 Alternative Flux:
 	- 2a. A category with the same name filled by user alread exists.
 		- 1. The user refills the category name field w/ some another name.
